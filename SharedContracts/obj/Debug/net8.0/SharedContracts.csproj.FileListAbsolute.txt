@@ -1,0 +1,11 @@
+C:\Users\abder\Desktop\Prep1\Prep1\SharedContracts\bin\Debug\net8.0\SharedContracts.deps.json
+C:\Users\abder\Desktop\Prep1\Prep1\SharedContracts\bin\Debug\net8.0\SharedContracts.dll
+C:\Users\abder\Desktop\Prep1\Prep1\SharedContracts\bin\Debug\net8.0\SharedContracts.pdb
+C:\Users\abder\Desktop\Prep1\Prep1\SharedContracts\obj\Debug\net8.0\SharedContracts.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\abder\Desktop\Prep1\Prep1\SharedContracts\obj\Debug\net8.0\SharedContracts.AssemblyInfoInputs.cache
+C:\Users\abder\Desktop\Prep1\Prep1\SharedContracts\obj\Debug\net8.0\SharedContracts.AssemblyInfo.cs
+C:\Users\abder\Desktop\Prep1\Prep1\SharedContracts\obj\Debug\net8.0\SharedContracts.csproj.CoreCompileInputs.cache
+C:\Users\abder\Desktop\Prep1\Prep1\SharedContracts\obj\Debug\net8.0\SharedContracts.dll
+C:\Users\abder\Desktop\Prep1\Prep1\SharedContracts\obj\Debug\net8.0\refint\SharedContracts.dll
+C:\Users\abder\Desktop\Prep1\Prep1\SharedContracts\obj\Debug\net8.0\SharedContracts.pdb
+C:\Users\abder\Desktop\Prep1\Prep1\SharedContracts\obj\Debug\net8.0\ref\SharedContracts.dll

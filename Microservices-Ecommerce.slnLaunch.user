@@ -1,0 +1,15 @@
+[
+  {
+    "Name": "Ecommerce",
+    "Projects": [
+      {
+        "Path": "WebApplication1\\InventoryService.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "ProductService\\ProductService.csproj",
+        "Action": "Start"
+      }
+    ]
+  }
+]

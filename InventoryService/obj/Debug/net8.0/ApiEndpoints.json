@@ -1,0 +1,81 @@
+[
+  {
+    "ContainingType": "InventoryService.API.Controllers.InventoryController",
+    "Method": "GetAllAsync",
+    "RelativePath": "api/inventories",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "InventoryService.API.Controllers.InventoryController",
+    "Method": "AddAsync",
+    "RelativePath": "api/inventories",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "InventoryService.Application.Dtos.CreateInventoryDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "InventoryService.API.Controllers.InventoryController",
+    "Method": "GetByIdAsync",
+    "RelativePath": "api/inventories/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "InventoryService.API.Controllers.InventoryController",
+    "Method": "UpdateAsync",
+    "RelativePath": "api/inventories/{id}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.String",
+        "IsRequired": true
+      },
+      {
+        "Name": "request",
+        "Type": "InventoryService.Application.Dtos.UpdateInventoryDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "InventoryService.API.Controllers.InventoryController",
+    "Method": "DeleteAsync",
+    "RelativePath": "api/inventories/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]
